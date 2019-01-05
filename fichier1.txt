@@ -1,0 +1,1 @@
+Ceci est le fichier qui va contenir les info de configuration de l'application
